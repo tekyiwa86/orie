@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://orientation.izea.com/sitemap.xml
